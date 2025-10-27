@@ -55,7 +55,7 @@ Entre as principais motivações do projeto estão:
 - A lacuna de **formação docente e recursos pedagógicos** para tratar de cidadania digital nas escolas;  
 - A consolidação da **parceria entre o PET Computação e a Escola São Domingos Sávio**, que há anos desenvolvem ações conjuntas em educação tecnológica.  
 
-O projeto busca **reduzir desigualdades digitais**, incentivando o uso consciente da tecnologia e promovendo uma cultura de cidadania no ambiente escolar.
+O projeto busca **diminuir as desigualdades digitais**, incentivando o uso consciente da tecnologia e intigando uma cultura de cidadania no ambiente escolar.
 
 ---
 
