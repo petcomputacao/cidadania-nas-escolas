@@ -1,6 +1,6 @@
 # 🌐 Cidadania Digital nas Escolas  
-### 🏫 Foco: Escola São Domingos Sávio – Campina Grande, PB  
-#### 🤝 Parceria: PET Computação – Universidade Federal de Campina Grande (UFCG)
+### 🏫 Foco 1: Escola São Domingos Sávio – Campina Grande, PB  
+#### 🤝 Parceria principal: PET Computação – Universidade Federal de Campina Grande (UFCG)
 
 ---
 
