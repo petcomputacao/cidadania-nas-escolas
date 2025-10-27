@@ -8,7 +8,7 @@
 ## 📚 Referências Bibliográficas
 
 [![Cidadania Digital - Sequencias didáticas](https://img.shields.io/badge/📄_Abrir-Computação%20nas%20Escolas-blue?style=for-the-badge)](https://github.com/Arthur-Campos-Freitas/cidadania-nas-escolas/raw/main/COMPUTACAO%20NAS%20ESCOLAS.pdf)  
-[![Cidadania Dital - Sequências Didáticas](https://img.shields.io/github/sequencias_didaticas/petcomputacao/cidadania_nas_escolas)](https://github.com/petcomputacao/cidadania-nas-escolas/computacao_nas_escolas.pdf)
+[![Cidadania Dital - Sequências Didáticas](https://img.shields.io/github/sequencias_didaticas/petcomputacao/cidadania_nas_escolas)](./computacao_nas_escolas.pdf)
 
 ---
 
