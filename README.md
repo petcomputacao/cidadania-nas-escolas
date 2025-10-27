@@ -8,8 +8,7 @@
 ## 📚 Referências Bibliográficas
 
 [![Cidadania Digital - Sequencias didáticas](https://img.shields.io/badge/📄_Abrir-Computação%20nas%20Escolas-blue?style=for-the-badge)](https://github.com/Arthur-Campos-Freitas/cidadania-nas-escolas/raw/main/COMPUTACAO%20NAS%20ESCOLAS.pdf)  
-[![Cidadania Digital na Prática - Artigo](https://img.shields.io/badge/📑_Abrir-Cidadania%20Digital%20na%20Prática-green?style=for-the-badge)](https://github.com/Arthur-Campos-Freitas/cidadania-nas-escolas/raw/main/Relat%C3%B3rio%20de%20Estudo%20do%20TCC%20-%20_Cidadania%20digital%20na%20pr%C3%A1tica_%20um%20estudo%20sobre%20as%20principais%20redes%20sociais%20utilizadas%20por%20adolescentes_.pdf)
-![BNCC](https://img.shields.io/badge/BNCC-Computação%202022-green?style=for-the-badge)
+[![Cidadania Dital - Sequências Didáticas](https://img.shields.io/github/contributors/petcomputacao/site-pet-comp)](https://github.com/petcomputacao/cidadania-nas-escolas/main/computacao_nas_escolas.pdf)
 
 ---
 
