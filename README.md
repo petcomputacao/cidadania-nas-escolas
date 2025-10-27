@@ -5,10 +5,13 @@
 
 ---
 
-![Computação nas Escolas (PET Computação – UFCG, 2023)](https://github.com/Arthur-Campos-Freitas/cidadania-nasescolas/raw/main/COMPUTACAO%20NAS%20ESCOLAS.pdf)
-![BNCC](https://img.shields.io/badge/BNCC-Computação%202022-green?style=for-the-badge)
-![PET Computacao(site)](https://img.shields.io/badge/PET%20Computação-UFCG-orange?style=for-the-badge)
-![Escola São Domingos de Sávio](https://img.shields.io/badge/Campina%20Grande-PB-yellow?style=for-the-badge)
+## 📚 Referências Bibliográficas
+
+- **Base Nacional Comum Curricular (BNCC)** – Computação (2022). Ministério da Educação.  
+- 📄 [PET Computação – UFCG. *Computação nas Escolas: Sequências Didáticas para o Ensino Fundamental I.* Campina Grande, 2023.](https://github.com/Arthur-Campos-Freitas/cidadania-nas-escolas/raw/main/COMPUTACAO%20NAS%20ESCOLAS.pdf)  
+- 📑 [Da Paz, R. R. C. *Cidadania Digital na Prática: um estudo sobre as principais redes sociais utilizadas por adolescentes.* TCC – UFCG, 2023.](https://github.com/Arthur-Campos-Freitas/cidadania-nas-escolas/raw/main/Relatório%20de%20Estudo%20do%20TCC%20-%20_Cidadania%20digital%20na%20prática_%20um%20estudo%20sobre%20as%20principais%20redes%20sociais%20utilizadas%20por%20adolescentes_.pdf)  
+- **Ribble, M.** (2015). *Digital Citizenship in Schools.* International Society for Technology in Education.  
+- **Livingstone, S.** (2019). *Children: Risk and Safety on the Internet – Research and Policy Challenges in Comparative Perspective.*
 
 ---
 
