@@ -5,7 +5,7 @@
 
 ---
 
-![Computação nas Escolas (PET Computação – UFCG, 2023)](COMPUTACAO_NAS_ESCOLAS.pdf)
+![Computação nas Escolas (PET Computação – UFCG, 2023)](https://img.shields.io/badge/COMPUTACAO_NAS_ESCOLAS.pdf-yellow?style=for-the-badge)
 ![BNCC](https://img.shields.io/badge/BNCC-Computação%202022-green?style=for-the-badge)
 ![PET Computacao(site)](https://img.shields.io/badge/PET%20Computação-UFCG-orange?style=for-the-badge)
 ![Escola São Domingos de Sávio](https://img.shields.io/badge/Campina%20Grande-PB-yellow?style=for-the-badge)
