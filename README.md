@@ -5,7 +5,7 @@
 
 ---
 
-## 📚 Referências Bibliográficas
+## 📚 Acessos bibliográficos
 ## ⚠️ ATENCAO - AREA EM REFORMA, NAO UTILIZAVEL (AINDA)
 [![Cidadania Digital - Sequencias didáticas](https://img.shields.io/badge/📄_Abrir-Computação%20nas%20Escolas-blue?style=for-the-badge)](https://github.com/Arthur-Campos-Freitas/cidadania-nas-escolas/raw/main/COMPUTACAO%20NAS%20ESCOLAS.pdf)  
 [Baixar/Visualizar PDF](https://raw.githubusercontent.com/ARTHUR-CAMPOS-FREITAS/petcomputacao/cidadania-nas-escolas/main/computacaonasescolas.pdf)
@@ -61,8 +61,8 @@ O projeto busca **reduzir desigualdades digitais**, incentivando o uso conscient
 
 ## 🧭 Metodologia
 
-As atividades foram estruturadas com base no material **_Computação nas Escolas: Sequências Didáticas para o Ensino Fundamental I_**, elaborado pelo **PET Computação – UFCG** (2023).  
-Essas sequências alinham-se às competências da BNCC e foram aplicadas de forma participativa, reflexiva e prática.
+As atividades foram estruturadas com base no material **_Computação nas Escolas: Sequências Didáticas para o Ensino Fundamental I_**, elaborado pelo **PET Computação – UFCG**.  
+Essas sequências alinham-se às competências da BNCC e foram aplicadas de forma participativa e prática.
 
 ### 📚 Estrutura das Sequências Didáticas
 
@@ -86,9 +86,10 @@ Essas sequências alinham-se às competências da BNCC e foram aplicadas de form
 - **Atividades desplugadas:** práticas sem computador para estimular criatividade e lógica;  
 - **Avaliação formativa:** acompanhamento contínuo e participativo do aprendizado.
 
-### 👩‍🏫 Papel do Professor
+### 👩‍🏫 Papel do Professor e do Pesquisador
 
-O(a) professor(a) atua como **mediador(a)** do processo, estimulando curiosidade, reflexão e autonomia.  
+O(a) professor(a) atua como **mediador(a)** do processo, estimulando curiosidade, reflexão e autonomia.
+O(a) discente/pesquisador(a) serve como um guia prático e um auxílio de ideias e execuções nas práticas educacionais previamente elaboradas.
 Cada sequência é planejada para tornar o aluno **protagonista do aprendizado**, desenvolvendo competências essenciais para o século XXI.
 
 ---
@@ -110,7 +111,7 @@ Além disso, o estudo *Cidadania Digital na Prática* demonstrou que adolescente
 
 ## 🔬 Futuras Pesquisas e Avaliações
 
-A continuidade do projeto prevê a expansão das ações para outras escolas de Campina Grande, com foco inicial na **Escola IPEN**.  
+Dentre as outras escolas de Campina Grande que têm tido relações com o projeto,destaca-se a **Escola IPEN**, parceira de longa data das atividades que envbolvem a inclusão e cidadania digital, escola essa que será pauta das próximas atualizações do site. 
 As próximas etapas incluem:
 
 - 💻 Desenvolvimento de **novos materiais e jogos digitais** sobre cidadania digital;  
@@ -119,7 +120,7 @@ As próximas etapas incluem:
 - 🔍 Estudos sobre **ética, privacidade e comportamento digital** dos alunos;  
 - 🌐 Ampliação da **parceria PET–Escolas**, fortalecendo a rede de educação digital na região.
 
-Essas ações reforçam o compromisso com a **formação tecnológica, crítica e ética** dos estudantes da rede pública e particular.
+Essas ações reforçam o compromisso com a **formação tecnológica, crítica e ética** dos estudantes da rede pública e particular, democratizando os acessos a informação em tempos de tanta influência externa para os pequenos.
 
 ---
 
@@ -129,7 +130,6 @@ Essas ações reforçam o compromisso com a **formação tecnológica, crítica 
 - **PET Computação – UFCG.** *Computação nas Escolas: Sequências Didáticas para o Ensino Fundamental I.* Campina Grande, 2023.  
 - **Da Paz, R. R. C.** *Cidadania Digital na Prática: um estudo sobre as principais redes sociais utilizadas por adolescentes.* TCC – UFCG, 2023.  
 - **Ribble, M.** (2015). *Digital Citizenship in Schools: Nine Elements All Students Should Know.* International Society for Technology in Education.  
-- **Livingstone, S.** (2019). *Children: Risk and Safety on the Internet – Research and Policy Challenges in Comparative Perspective.*
 
 ---
 
