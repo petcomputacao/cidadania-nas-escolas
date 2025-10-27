@@ -8,8 +8,10 @@
 ## 📚 Referências Bibliográficas
 
 - **Base Nacional Comum Curricular (BNCC)** – Computação (2022). Ministério da Educação.  
-- 📄 [PET Computação – UFCG. *Computação nas Escolas: Sequências Didáticas para o Ensino Fundamental I.* Campina Grande, 2023.](https://github.com/Arthur-Campos-Freitas/cidadania-nas-escolas/raw/main/COMPUTACAO%20NAS%20ESCOLAS.pdf)  
-- 📑 [Da Paz, R. R. C. *Cidadania Digital na Prática: um estudo sobre as principais redes sociais utilizadas por adolescentes.* TCC – UFCG, 2023.](https://github.com/Arthur-Campos-Freitas/cidadania-nas-escolas/raw/main/Relatório%20de%20Estudo%20do%20TCC%20-%20_Cidadania%20digital%20na%20prática_%20um%20estudo%20sobre%20as%20principais%20redes%20sociais%20utilizadas%20por%20adolescentes_.pdf)  
+[![Abrir Computação nas Escolas](https://img.shields.io/badge/📄_Abrir-Computação%20nas%20Escolas-blue?style=for-the-badge)](https://github.com/Arthur-Campos-Freitas/cidadania-nas-escolas/raw/main/COMPUTACAO%20NAS%20ESCOLAS.pdf)
+
+[![Abrir Cidadania Digital na Prática](https://img.shields.io/badge/📑_Abrir-Cidadania%20Digital%20na%20Prática-green?style=for-the-badge)](https://github.com/Arthur-Campos-Freitas/cidadania-nas-escolas/raw/main/Relatório%20de%20Estudo%20do%20TCC%20-%20_Cidadania%20digital%20na%20prática_%20um%20estudo%20sobre%20as%20principais%20redes%20sociais%20utilizadas%20por%20adolescentes_.pdf)
+
 - **Ribble, M.** (2015). *Digital Citizenship in Schools.* International Society for Technology in Education.  
 - **Livingstone, S.** (2019). *Children: Risk and Safety on the Internet – Research and Policy Challenges in Comparative Perspective.*
 
